@@ -1,0 +1,24 @@
+Name : ,mahi,Item : ,Ichiraku Ramen,Rate   :,1,Experience :,good
+
+Name : ,mahi,Item : ,Calamari Ring,Rate   :,10,Experience :,great
+
+Name : ,starlord,Item : ,Anteiku Drinks,Rate   :,10,Experience :,great with boba pearls and whipped cream!
+
+Name : ,luffy,Item : ,Sushi,Rate   :,8,Experience :,tasty
+
+Name : ,sanji,Item : ,Lasagna,Rate   :,8,Experience :,very tasty.
+
+Name : ,zoro,Item : ,Anteiku Drinks,Rate   :,10,Experience :,tasty
+
+Name : ,nami,Item : ,Ichiraku Ramen,Rate   :,4,Experience :,should have been better compared to price
+
+Name : ,robin,Item : ,Pasta,Rate   :,10,Experience :,prices are very much student friendly.
+
+Name : ,abir,Item : ,Ichiraku Ramen,Rate   :,8,Experience :,good
+
+Name : ,robin,Item : ,Cheesecake,Rate   :,8,Experience :,derishishishi
+
+Name : ,sda,Item : ,Ichiraku Ramen,Rate   :,7,Experience :,dsda
+
+Name : ,mahi,Item : ,Anteiku Drinks,Rate   :,8,Experience :,tastes great!!
+

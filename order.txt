@@ -1,0 +1,18 @@
+
+
+Name:,Mahi Muqtadir,Mobile No.:,01889126278,Address:,A-72/3,Item Name:,CheeseCake,Quantity:,3,Bill:,900.00
+
+Name:,abir,Mobile No.:,01787746671,Address:,kuril,Item Name:,CheeseCake,Quantity:,3,Bill:,900.00
+
+Name:,fahim,Mobile No.:,545654,Address:,lichubagan,Item Name:,Ichiraku Ramen,Quantity:,4,Bill:,3200.00
+
+Name:,jishan,Mobile No.:,12344,Address:,nodda,Item Name:,CheeseCake,Quantity:,3,Bill:,900.00
+
+Name:,starlord,Mobile No.:,244524,Address:,usa,Item Name:,Calamari-Rings,Quantity:,4,Bill:,1400.00
+
+Name:,sanji,Mobile No.:,2425,Address:,east blue,Item Name:,Calamari-Rings,Quantity:,4,Bill:,2000.00
+
+Name:,mahi,Mobile No.:,01889626,Address:,joar shahara,Item Name:,Pasta,Quantity:,4,Bill:,1000.00
+
+Name:,mahi,Mobile No.:,019595,Address:,kuril,Item Name:,Ichiraku Ramen,Quantity:,4,Bill:,3600.00
+
