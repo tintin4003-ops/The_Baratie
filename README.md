@@ -17,18 +17,7 @@ This project focuses on creating a simple and interactive food ordering system w
  • View Orders
  • Manage Customer Reviews
 
-
-
 https://github.com/user-attachments/assets/1e3cd45a-c659-4368-abaa-57c3377f3f65
-
-
-
- Through this project, I worked on core concepts of authentication, role-based access control, CRUD operations, and UI-driven application design using Java.
-As a Computer Science and Engineering student, this project helped me strengthen my understanding of desktop application development and real-world system design. 💻✨
-
-
-
-
 
 Through this project, I worked on core concepts of authentication, role-based access control, CRUD operations, and UI-driven application design using Java.
 As a Computer Science and Engineering student, this project helped me strengthen my understanding of desktop application development and real-world system design. 💻✨
